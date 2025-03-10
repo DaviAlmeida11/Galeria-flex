@@ -1,6 +1,12 @@
 # AGLERIA-FLEX
-# Galeria-flex
-# Galeria-flex
-# Galeria-flex
-# Galeria-flex
-# Galeria-flex
+`![] (./preview.png)
+
+## descrição
+ Receita de bolo 
+
+
+# Tecnologias utilizadas para criaçao do site
+* HTML
+* CSS
+* GIT
+* MARKDOW
