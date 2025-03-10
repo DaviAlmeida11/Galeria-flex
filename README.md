@@ -1,5 +1,5 @@
-# AGLERIA-FLEX
-`![] (./preview.png)
+# AGLERIA-FLEX\z
+[] (./preview.png)
 
 ## descrição
  Receita de bolo 
@@ -10,3 +10,5 @@
 * CSS
 * GIT
 * MARKDOW
+## Autor 
+Davi de Almeida 
