@@ -1,5 +1,5 @@
-# AGLERIA-FLEX\z
-[] (./preview.png)
+# AGLERIA-FLEX
+![](./Tela%20Galeria%20FLex.png)
 
 ## descrição
  Receita de bolo 
