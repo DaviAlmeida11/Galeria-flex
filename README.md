@@ -11,4 +11,4 @@
 * GIT
 * MARKDOW
 ## Autor 
-Davi de Almeida 
+Davi de Almeida # GALERIA_FLEX
