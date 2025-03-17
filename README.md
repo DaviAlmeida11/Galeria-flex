@@ -1,5 +1,5 @@
 # AGLERIA-FLEX
-![](./Tela%20Galeria%20FLex.png)
+![](./Captura%20de%20Tela%202025-03-17%20às%2015.23.32.png)
 
 ## descrição
  Receita de bolo 
