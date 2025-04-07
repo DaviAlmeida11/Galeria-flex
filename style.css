@@ -19,7 +19,7 @@ body{
 }
 header{
     height: 100px;
-   
+   background-color: rgb(47, 71, 230);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,8 +76,8 @@ object-fit: cover;
 .container-superior-esquerda .foto{
     width: 50%;
     height: 50%;
-    background-color: azure;
-    border: 1px solid black
+    background-color: rgb(104, 229, 229);
+    border: 1px solid rgb(159, 210, 241)
 }
 .container-superior-esquerda .foto:nth-of-type(1){
     width: 100%;
@@ -98,8 +98,8 @@ object-fit: cover;
 .container-inferior .foto{
     width: 33%;
     height: 50%;
-    background-color: black;
-    border: 1px solid rgb(0, 0, 0);
+    background-color: hsl(209, 74%, 64%);
+    border: 1px solid rgb(80, 159, 206);
 }
 .container-inferior .foto:nth-of-type(3){
     height: 100%;
@@ -113,6 +113,7 @@ footer{
     align-items: center;
     font-style: italic;
     font-size: 1rem;
+    background-color: rgb(98, 106, 255);
     
 }
 img{
@@ -120,3 +121,4 @@ img{
     height: 100%;
     object-fit: cover;
 }
+
